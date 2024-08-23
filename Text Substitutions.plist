@@ -46,6 +46,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>⎋</string>
+		<key>shortcut</key>
+		<string>\escape</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>∀</string>
 		<key>shortcut</key>
 		<string>\forall</string>
@@ -134,12 +140,12 @@
 		<key>shortcut</key>
 		<string>\sqrt</string>
 	</dict>
-  <dict>
-    <key>phrase</key>
-    <string>⇥</string>
-    <key>shortcut</key>
-    <string>\tab</string>
-  </dict>
+	<dict>
+		<key>phrase</key>
+		<string>⇥</string>
+		<key>shortcut</key>
+		<string>\tab</string>
+	</dict>
 	<dict>
 		<key>phrase</key>
 		<string>(╯°□°）╯︵ ┻━┻</string>
@@ -231,292 +237,292 @@
 		<string>=&gt;</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>Α</string>
-	    <key>shortcut</key>
-	    <string>\Alpha</string>
+		<key>phrase</key>
+		<string>Α</string>
+		<key>shortcut</key>
+		<string>\Alpha</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>α</string>
-	    <key>shortcut</key>
-	    <string>\alpha</string>
+		<key>phrase</key>
+		<string>α</string>
+		<key>shortcut</key>
+		<string>\alpha</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>Β</string>
-	    <key>shortcut</key>
-	    <string>\Beta</string>
+		<key>phrase</key>
+		<string>Β</string>
+		<key>shortcut</key>
+		<string>\Beta</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>β</string>
-	    <key>shortcut</key>
-	    <string>\beta</string>
+		<key>phrase</key>
+		<string>β</string>
+		<key>shortcut</key>
+		<string>\beta</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>Γ</string>
-	    <key>shortcut</key>
-	    <string>\Gamma</string>
+		<key>phrase</key>
+		<string>Γ</string>
+		<key>shortcut</key>
+		<string>\Gamma</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>γ</string>
-	    <key>shortcut</key>
-	    <string>\gamma</string>
+		<key>phrase</key>
+		<string>γ</string>
+		<key>shortcut</key>
+		<string>\gamma</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>Δ</string>
-	    <key>shortcut</key>
-	    <string>\Delta</string>
+		<key>phrase</key>
+		<string>Δ</string>
+		<key>shortcut</key>
+		<string>\Delta</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>δ</string>
-	    <key>shortcut</key>
-	    <string>\delta</string>
+		<key>phrase</key>
+		<string>δ</string>
+		<key>shortcut</key>
+		<string>\delta</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>Ε</string>
-	    <key>shortcut</key>
-	    <string>\Epsilon</string>
+		<key>phrase</key>
+		<string>Ε</string>
+		<key>shortcut</key>
+		<string>\Epsilon</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>ε</string>
-	    <key>shortcut</key>
-	    <string>\epsilon</string>
+		<key>phrase</key>
+		<string>ε</string>
+		<key>shortcut</key>
+		<string>\epsilon</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>Ζ</string>
-	    <key>shortcut</key>
-	    <string>\Zeta</string>
+		<key>phrase</key>
+		<string>Ζ</string>
+		<key>shortcut</key>
+		<string>\Zeta</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>ζ</string>
-	    <key>shortcut</key>
-	    <string>\zeta</string>
+		<key>phrase</key>
+		<string>ζ</string>
+		<key>shortcut</key>
+		<string>\zeta</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>Η</string>
-	    <key>shortcut</key>
-	    <string>\Eta</string>
+		<key>phrase</key>
+		<string>Η</string>
+		<key>shortcut</key>
+		<string>\Eta</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>η</string>
-	    <key>shortcut</key>
-	    <string>\eta</string>
+		<key>phrase</key>
+		<string>η</string>
+		<key>shortcut</key>
+		<string>\eta</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>Θ</string>
-	    <key>shortcut</key>
-	    <string>\Theta</string>
+		<key>phrase</key>
+		<string>Θ</string>
+		<key>shortcut</key>
+		<string>\Theta</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>θ</string>
-	    <key>shortcut</key>
-	    <string>\theta</string>
+		<key>phrase</key>
+		<string>θ</string>
+		<key>shortcut</key>
+		<string>\theta</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>Ι</string>
-	    <key>shortcut</key>
-	    <string>\Iota</string>
+		<key>phrase</key>
+		<string>Ι</string>
+		<key>shortcut</key>
+		<string>\Iota</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>ι</string>
-	    <key>shortcut</key>
-	    <string>\iota</string>
+		<key>phrase</key>
+		<string>ι</string>
+		<key>shortcut</key>
+		<string>\iota</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>Κ</string>
-	    <key>shortcut</key>
-	    <string>\Kappa</string>
+		<key>phrase</key>
+		<string>Κ</string>
+		<key>shortcut</key>
+		<string>\Kappa</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>κ</string>
-	    <key>shortcut</key>
-	    <string>\kappa</string>
+		<key>phrase</key>
+		<string>κ</string>
+		<key>shortcut</key>
+		<string>\kappa</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>Λ</string>
-	    <key>shortcut</key>
-	    <string>\Lambda</string>
+		<key>phrase</key>
+		<string>Λ</string>
+		<key>shortcut</key>
+		<string>\Lambda</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>λ</string>
-	    <key>shortcut</key>
-	    <string>\lambda</string>
+		<key>phrase</key>
+		<string>λ</string>
+		<key>shortcut</key>
+		<string>\lambda</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>Μ</string>
-	    <key>shortcut</key>
-	    <string>\Mu</string>
+		<key>phrase</key>
+		<string>Μ</string>
+		<key>shortcut</key>
+		<string>\Mu</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>μ</string>
-	    <key>shortcut</key>
-	    <string>\mu</string>
+		<key>phrase</key>
+		<string>μ</string>
+		<key>shortcut</key>
+	    	<string>\mu</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>Ν</string>
-	    <key>shortcut</key>
-	    <string>\Nu</string>
+		<key>phrase</key>
+		<string>Ν</string>
+		<key>shortcut</key>
+		<string>\Nu</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>ν</string>
-	    <key>shortcut</key>
-	    <string>\nu</string>
+		<key>phrase</key>
+		<string>ν</string>
+		<key>shortcut</key>
+		<string>\nu</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>Ξ</string>
-	    <key>shortcut</key>
-	    <string>\Xi</string>
+		<key>phrase</key>
+		<string>Ξ</string>
+		<key>shortcut</key>
+		<string>\Xi</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>ξ</string>
-	    <key>shortcut</key>
-	    <string>\xi</string>
+		<key>phrase</key>
+		<string>ξ</string>
+		<key>shortcut</key>
+		<string>\xi</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>Ο</string>
-	    <key>shortcut</key>
-	    <string>\Omicron</string>
+		<key>phrase</key>
+		<string>Ο</string>
+		<key>shortcut</key>
+		<string>\Omicron</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>ο</string>
-	    <key>shortcut</key>
-	    <string>\omicron</string>
+		<key>phrase</key>
+		<string>ο</string>
+		<key>shortcut</key>
+		<string>\omicron</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>Π</string>
-	    <key>shortcut</key>
-	    <string>\Pi</string>
+		<key>phrase</key>
+		<string>Π</string>
+		<key>shortcut</key>
+		<string>\Pi</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>π</string>
-	    <key>shortcut</key>
-	    <string>\pi</string>
+		<key>phrase</key>
+		<string>π</string>
+		<key>shortcut</key>
+		<string>\pi</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>Ρ</string>
-	    <key>shortcut</key>
-	    <string>\Rho</string>
+		<key>phrase</key>
+		<string>Ρ</string>
+		<key>shortcut</key>
+		<string>\Rho</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>ρ</string>
-	    <key>shortcut</key>
-	    <string>\rho</string>
+		<key>phrase</key>
+		<string>ρ</string>
+		<key>shortcut</key>
+		<string>\rho</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>Σ</string>
-	    <key>shortcut</key>
-	    <string>\Sigma</string>
+		<key>phrase</key>
+		<string>Σ</string>
+		<key>shortcut</key>
+		<string>\Sigma</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>σ</string>
-	    <key>shortcut</key>
-	    <string>\sigma</string>
+		<key>phrase</key>
+		<string>σ</string>
+		<key>shortcut</key>
+		<string>\sigma</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>Τ</string>
-	    <key>shortcut</key>
-	    <string>\Tau</string>
+		<key>phrase</key>
+		<string>Τ</string>
+		<key>shortcut</key>
+		<string>\Tau</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>τ</string>
-	    <key>shortcut</key>
-	    <string>\tau</string>
+		<key>phrase</key>
+		<string>τ</string>
+		<key>shortcut</key>
+		<string>\tau</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>Υ</string>
-	    <key>shortcut</key>
-	    <string>\Upsilon</string>
+		<key>phrase</key>
+		<string>Υ</string>
+		<key>shortcut</key>
+		<string>\Upsilon</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>υ</string>
-	    <key>shortcut</key>
-	    <string>\upsilon</string>
+		<key>phrase</key>
+		<string>υ</string>
+		<key>shortcut</key>
+		<string>\upsilon</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>Φ</string>
-	    <key>shortcut</key>
-	    <string>\Phi</string>
+		<key>phrase</key>
+		<string>Φ</string>
+		<key>shortcut</key>
+		<string>\Phi</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>φ</string>
-	    <key>shortcut</key>
-	    <string>\phi</string>
+		<key>phrase</key>
+		<string>φ</string>
+		<key>shortcut</key>
+		<string>\phi</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>Χ</string>
-	    <key>shortcut</key>
-	    <string>\Chi</string>
+		<key>phrase</key>
+		<string>Χ</string>
+		<key>shortcut</key>
+		<string>\Chi</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>χ</string>
-	    <key>shortcut</key>
-	    <string>\chi</string>
+		<key>phrase</key>
+		<string>χ</string>
+		<key>shortcut</key>
+		<string>\chi</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>Ψ</string>
-	    <key>shortcut</key>
-	    <string>\Psi</string>
+		<key>phrase</key>
+		<string>Ψ</string>
+		<key>shortcut</key>
+		<string>\Psi</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>ψ</string>
-	    <key>shortcut</key>
-	    <string>\psi</string>
+		<key>phrase</key>
+		<string>ψ</string>
+		<key>shortcut</key>
+		<string>\psi</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>Ω</string>
-	    <key>shortcut</key>
-	    <string>\Omega</string>
+		<key>phrase</key>
+		<string>Ω</string>
+		<key>shortcut</key>
+		<string>\Omega</string>
 	</dict>
 	<dict>
-	    <key>phrase</key>
-	    <string>ω</string>
-	    <key>shortcut</key>
-	    <string>\omega</string>
+		<key>phrase</key>
+		<string>ω</string>
+		<key>shortcut</key>
+		<string>\omega</string>
 	</dict>
 
 </array>
